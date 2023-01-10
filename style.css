@@ -1,0 +1,17 @@
+#kartu {
+    padding-top: 90px;
+    width: 500px;
+    height: 550px;
+    text-align: center;
+}
+#kartu2 {
+    padding-top: 50px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
